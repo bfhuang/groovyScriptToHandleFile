@@ -1,0 +1,12 @@
+0|SNT|prod0
+1|SNT|prod1
+2|SNT|prod2
+3|SNT|prod3
+4|SNT|prod4
+5|SNT|prod5
+6|SNT|prod6
+7|SNT|prod7
+8|SNT|prod8
+9|SNT|prod9
+10|SNT|prod10
+11|SNT|prod11

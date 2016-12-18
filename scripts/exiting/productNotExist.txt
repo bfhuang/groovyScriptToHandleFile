@@ -1,0 +1,2 @@
+0|SNT|prod0
+1|SNT|prod1
